@@ -4,7 +4,7 @@
 
 </div>
 
-<h3 align="center">Hi, I'm Harshit Sharma</h3>
+<h3 align="center">Hello, I'm Harshit Sharma</h3>
 <p align="center">
 B.Tech CSE Student · C/C++ · Python · DSA · Backend Development
 </p>
@@ -27,7 +27,7 @@ B.Tech CSE Student · C/C++ · Python · DSA · Backend Development
 
 ---
 
-## 🛠️ Skills
+## Skills
 
 ### Languages
 <p align="left">
