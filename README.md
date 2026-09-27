@@ -36,7 +36,7 @@ B.Tech CSE Student · C/C++ · Python · DSA · Backend Development
 
 ### Frameworks & Databases
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,sqlite" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,sqlite,Scikit-learn" />
 </p>
 
 ### Tools
