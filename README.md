@@ -4,7 +4,7 @@
 
 </div>
 
-<h3 align="center">👋 Hi, I'm Harshit Sharma</h3>
+<h3 align="center">Hi, I'm Harshit Sharma</h3>
 <p align="center">
 B.Tech CSE Student · C/C++ · Python · DSA · Backend Development
 </p>
@@ -17,13 +17,13 @@ B.Tech CSE Student · C/C++ · Python · DSA · Backend Development
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
-- 🎓 B.Tech CSE Student
-- 💻 Currently strengthening **Data Structures & Algorithms** and **Backend Development**
-- 🧠 Sharpening problem-solving on LeetCode
-- 🚀 Building real-world projects from scratch
-- 🤝 Always open to collaborating on interesting projects
+-  B.Tech CSE Student
+-  Currently strengthening **Data Structures & Algorithms** and **Backend Development**
+-  Sharpening problem-solving on LeetCode
+-  Building real-world projects from scratch
+-  Always open to collaborating on interesting projects
 
 ---
 
