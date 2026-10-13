@@ -6,7 +6,7 @@
 
 <h3 align="center">Hello, I'm Harshit Sharma</h3>
 <p align="center">
-B.Tech CSE Student · C/C++ · Python · DSA · Backend Development
+
 </p>
 
 <p align="center">
