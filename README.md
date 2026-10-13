@@ -44,6 +44,3 @@
 
 ---
 
-<div align="center">
-  <sub>Thanks for stopping by ✨</sub>
-</div>
