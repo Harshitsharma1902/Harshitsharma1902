@@ -5,9 +5,7 @@
 </div>
 
 <h3 align="center">Hello, I'm Harshit Sharma</h3>
-<p align="center">
 
-</p>
 
 <p align="center">
   <a href="mailto:harshworks77@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
